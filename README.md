@@ -1,7 +1,7 @@
 
 Languages and Tools
 
-### JavaScriprt 
+### JavaScriprt 👋
 ###  ReacJs 👋
 ### Css 👋
 
