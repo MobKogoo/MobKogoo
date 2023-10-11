@@ -18,7 +18,7 @@ Education
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?MobKogoo={MobKogoo}&theme=blue-green)
+(https://github-readme-stats.vercel.app/api?MobKogoo={MobKogoo}&theme=blue-green)
 
 <!--
 **MobKogoo/MobKogoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
