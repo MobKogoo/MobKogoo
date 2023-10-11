@@ -17,10 +17,7 @@ Education
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-FOLLOW ME 
-[![FACEBOOK]https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/Dr.Mob.kogo?mibextid=ZbWKwL
-)
-[![LINKEDIN][https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/irakli-kogua)
+
 
 <!--
 **MobKogoo/MobKogoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
