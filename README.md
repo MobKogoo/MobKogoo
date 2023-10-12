@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Reactjs  JavaScript 
 - 👯 I’m looking to collaborate on ...RactJs  projects
 - 🤔 I’m looking for help with ... RactJs
-- 💬 Ask me about ...
 - 📫 How to reach me: ... @Mob Kogo  or Irakli Kogua
 <!-- - 😄 Pronouns: ...
+- 💬 Ask me about ...
 - ⚡ Fun fact: ... -->
 
