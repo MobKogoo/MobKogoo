@@ -39,17 +39,16 @@
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-<!--
-**MobKogoo/MobKogoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... javascript React
-- 🌱 I’m currently learning ...Reactjs  javascript 
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ... JavaScript React
+- 🌱 I’m currently learning ...Reactjs  JavaScript 
+- 👯 I’m looking to collaborate on ...RactJs  projects
 - 🤔 I’m looking for help with ... RactJs
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
