@@ -40,6 +40,7 @@
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MobKogoo' src='https://img.shields.io/badge/MobKogoo-100000?style=social&logo=MobKogoo&logoColor=883FB3&labelColor=black&color=black'/></a>
 
 Here are some ideas to get you started:
 
