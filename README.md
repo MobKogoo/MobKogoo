@@ -19,6 +19,8 @@
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![SoloLearn](https://img.shields.io/badge/Sololearn-149EF2.svg?style=for-the-badge&logo=Sololearn&logoColor=white)
+![S.C.S.A.](https://img.shields.io/badge/S.C.S.A.-FF6600.svg?style=for-the-badge&logo=KinoPoisk&logoColor=white)
+![I.C.A.N.N. ](https://img.shields.io/badge/I.C.A.N.N.-1D365D.svg?style=for-the-badge&logo=Less&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MobKogoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
